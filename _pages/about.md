@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 # 联系方式
 
 （HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
