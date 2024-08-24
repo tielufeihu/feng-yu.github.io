@@ -86,7 +86,7 @@ author:
   location         : "山东, 济南"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : zxcty986977978@gmail.com 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -177,16 +177,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: # /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: # /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: # /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: # /:collection/:path/
 
 
 # Defaults
